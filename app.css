@@ -9,7 +9,7 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
   img {
-    max-width: 100%;
+    max-width: 50%;
     border-radius: 2em;
   }
 }
